@@ -1,2 +1,2 @@
-# repository-template
+# template-repository
 Template repository for all projects
